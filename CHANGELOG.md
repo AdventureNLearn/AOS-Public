@@ -2,4 +2,4 @@
 
 ## [0.1.0] - 2026-06-06
 
-Initial public release - Core verification and reasoning frameworks.
+Initial public release - Core verification and reasoning frameworks for civic intelligence and oversight work.

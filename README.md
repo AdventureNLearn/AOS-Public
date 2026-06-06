@@ -22,11 +22,15 @@ AOS-Public provides structured frameworks designed for **civic intelligence work
 - **Influence & Organizational Mapping Framework** — Systematically map relationships, funding, personnel flows, and power structures.
 - **Ops Hardening Framework** — Gate-first verification, early failure detection, and process resilience.
 - **Oversight & Verification Kit Framework** — Build auditable, evidence-based oversight packages.
-- **Core Verification Primitives** — Evidence Gate, Mission Spine Guard, and Anti-Pattern Scanner.
+- **Core Verification Primitives** — Evidence Gate, Values Alignment Check, and Anti-Pattern Scanner.
 
 ## Getting Started
 
 See the [Getting Started guide](docs/getting-started.md) for the recommended learning path and quick-start examples.
+
+## Worked Examples
+
+This release includes **10 worked examples** demonstrating different combinations of the frameworks on realistic civic and institutional scenarios.
 
 ## Philosophy
 
