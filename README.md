@@ -26,7 +26,7 @@ AOS-Public provides structured frameworks designed for **civic intelligence work
 
 ## Getting Started
 
-See the [Getting Started guide](docs/getting-started.md) for recommended learning path and quick-start examples.
+See the [Getting Started guide](docs/getting-started.md) for the recommended learning path and quick-start examples.
 
 ## Philosophy
 
