@@ -2,10 +2,9 @@
 
 Clean, OpSec-first public release of core Adventure OS frameworks.
 
-Focus on verification, reasoning, truth-seeking, and replicable operational systems.
+Focus on replicable verification, reasoning, truth-seeking, and operational systems.
 
-## Core Frameworks
-
+## Core Components
 - Shatter Protocol
 - Sovereign Lens
 - Ops Hardening Framework
