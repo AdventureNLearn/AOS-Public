@@ -1,20 +1,17 @@
 # Evidence Gate
 
-**Core Primitive** | Verification Layer
+**Core Pattern** | Verification Layer
 
 ## Purpose
-Evidence Gate enforces strict separation between what is directly sourced and what is inferred, assumed, or speculative.
-
-## Core Function
-Before any claim is accepted, label with:
-- **SOURCED**: Directly supported by tool output or verifiable data.
-- **INFERRED**: Logical conclusion from sourced material.
-- **SPECULATIVE**: Opinion or low-confidence reasoning.
+Evidence Gate provides a structured way to label claims as Evidence, Inference, or Assumption.
 
 ## Protocol
-1. Review every significant claim.
-2. Label it appropriately.
-3. Downgrade or remove claims that cannot be clearly labeled.
+1. Identify every major claim.
+2. Tag it as:
+   - **EVIDENCE**: Direct source
+   - **INFERENCE**: Logical conclusion from evidence
+   - **ASSUMPTION**: Unverified starting point
+3. Flag anything unclear as **[UNKNOWN]**.
 
-## Integration
-Works synergistically with Mission Spine Guard, Anti-Pattern Scanner, and Shatter Protocol.
+## Benefits
+Improves transparency, reduces hallucination, and makes reasoning more auditable.
