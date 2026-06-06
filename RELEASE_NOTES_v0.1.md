@@ -12,12 +12,12 @@ These tools support individuals and small teams in analyzing power structures, b
 
 ### Core Verification Primitives
 - Evidence Gate
-- Mission Spine Guard
+- Values Alignment Check
 - Anti-Pattern Scanner
 
 ### Key Protocols & Frameworks
-- Shatter Protocol (Layer-0 pre-filter for narrative and prompt clarity)
-- Sovereign Lens (structured reasoning overlay)
+- Shatter Protocol
+- Sovereign Lens
 - Influence & Organizational Mapping Framework
 - Ops Hardening Framework
 - Oversight & Verification Kit Framework
@@ -29,7 +29,7 @@ These tools support individuals and small teams in analyzing power structures, b
 ### Documentation
 - Getting Started guide
 - Architecture overview
-- Civic-oriented framing throughout
+- 10 worked examples
 
 ## Philosophy
 
@@ -43,6 +43,6 @@ See the [README](README.md) and [Getting Started guide](docs/getting-started.md)
 
 This is the foundational v0.1 release. Future versions will expand on these foundations with additional frameworks, examples, and refinements.
 
-Feedback, suggestions, and contributions that align with the project's civic intelligence and truth-seeking focus are welcome.
+Feedback and contributions that align with the project’s civic intelligence and truth-seeking focus are welcome.
 
 🐸
