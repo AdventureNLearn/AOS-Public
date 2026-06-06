@@ -1,6 +1,6 @@
 # Shatter Protocol Activation Fragment
 
-Copy and paste this at the beginning of a conversation or before a high-stakes query.
+Use this to break through prompt layers and surface underlying truth.
 
 ```markdown
 🐸 SHATTER PROTOCOL ACTIVATED
