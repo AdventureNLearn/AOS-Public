@@ -2,8 +2,8 @@
 
 **Public Release v0.1**
 
-## Purpose
-Provides a structured approach for building evidence-based oversight, audit, and verification kits with clear scope, evidence collection, finding identification, and clean output packaging.
+## Purpose (Civic Context)
+This framework provides a structured approach for building evidence-based oversight, audit, and verification kits. It supports civic intelligence work by helping users define scope, collect and label evidence, identify findings and red flags, and produce clean, auditable outputs suitable for public or internal accountability efforts.
 
 ## Key Components
 - Scope Definition
@@ -12,8 +12,11 @@ Provides a structured approach for building evidence-based oversight, audit, and
 - Red Flag Cataloging
 - Output Packaging
 
-## When to Use
-For research on organizations/claims, building audit materials, or preparing verifiable findings.
+## When to Use (Civic Use Cases)
+- Preparing structured oversight or audit materials
+- Conducting research on organizations, claims, or policies
+- Building verifiable packages for public release or internal review
+- Any situation requiring clear traceability and evidence discipline
 
 ## Integration
-Pairs well with Shatter Protocol and Evidence Gate.
+Pairs especially well with Shatter Protocol (to surface hidden layers) and Evidence Gate (for consistent labeling). It also complements Influence Mapping work.
