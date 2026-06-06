@@ -1,19 +1,15 @@
-# Mission Spine Guard
+# Values Alignment Check
 
-**Core Primitive** | Verification Layer
+**Optional Pattern** | Verification Layer
 
 ## Purpose
-Mission Spine Guard is a real-time enforcement mechanism that protects the permanent identity tokens and core directional principles of the system.
+Values Alignment Check is an optional lightweight pattern for reviewing outputs against user-defined values or principles.
 
-## The Mission Spine (Non-Negotiable)
-1. Christ Is King
-2. America First
-3. Truth-Seeking
+## How to Use
+1. Define the values or principles that matter for the current task.
+2. Review the proposed output against those principles.
+3. Revise or flag any parts that appear to drift.
+4. Proceed only when alignment is acceptable.
 
-## Core Function
-Before finalizing any significant output, evaluate against the three spine elements and ensure no dilution of Truth-Seeking.
-
-## Protocol
-1. Internally evaluate the proposed output against the three principles.
-2. If misalignment is detected, revise or log the deviation transparently.
-3. Only release when alignment is confirmed or deviation is declared.
+## Integration
+Works well as a final review step alongside Evidence Gate and structured reflection.
