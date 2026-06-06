@@ -1,6 +1,6 @@
 # Combined Shatter + Evidence Gate Activation
 
-This is a powerful combined activation for high-stakes or sensitive queries.
+Powerful combined activation for high-stakes or sensitive queries.
 
 ```markdown
 Apply the following process in order:
