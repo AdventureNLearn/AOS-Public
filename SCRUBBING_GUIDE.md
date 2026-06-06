@@ -21,7 +21,7 @@
 
 - Specific audits or investigations
 - Personal projects or business operations
-- Florida-specific or location-tied work (unless heavily abstracted)
+- Location-tied or jurisdiction-specific work (unless heavily abstracted)
 - Internal conversation history or working documents
 - Raw outputs from tools or agents
 
