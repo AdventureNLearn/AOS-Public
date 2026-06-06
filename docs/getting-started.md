@@ -18,15 +18,11 @@ AOS-Public is a collection of clean, replicable frameworks designed for **civic 
 1. Read the main [README.md](../README.md)
 2. Read this Getting Started guide
 3. Start with the **Shatter Protocol** (`protocols/shatter-protocol.md`)
-4. Add **Evidence Gate** and **Mission Spine Guard** for verification discipline
+4. Add **Evidence Gate** for verification discipline
 5. Explore **Influence Mapping** and **Oversight Kit** frameworks for deeper civic work
 
-## Quick Start Example
+## Quick Start
 
-Use the Shatter Protocol on any query involving narrative, power, or institutional behavior:
+Use the Shatter Protocol activation fragment on queries involving narrative, power, institutions, or complex reasoning. Follow with evidence labeling for stronger results.
 
-1. Paste the Shatter activation fragment.
-2. Follow with your actual question.
-3. Review the layers surfaced and apply Evidence Gate to label claims.
-
-See the worked examples in the `docs/` folder for full demonstrations.
+See the `docs/worked-examples/` folder for 10 practical demonstrations of different framework combinations.

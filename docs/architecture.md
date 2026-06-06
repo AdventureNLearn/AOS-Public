@@ -4,19 +4,23 @@
 
 AOS-Public is organized around composable layers that support **civic intelligence and oversight work**:
 
-### 1. Core Verification Layer
-- Evidence Gate (source vs inference discipline)
-- Mission Spine Guard (directional alignment)
-- Anti-Pattern Scanner (operational failure detection)
+### 1. Core Coordination Layer
+- Task compression and structured delegation
+- Verification and consistency checking
+- Recursive improvement
 
 ### 2. Reasoning & Analysis Layer
-- Sovereign Lens (structured multi-domain reasoning overlay)
-- Influence & Organizational Mapping Framework (relationship and power mapping)
+- Deep cross-domain reasoning
+- Structured overlays (e.g. Sovereign Lens)
+- Influence and organizational mapping
 
-### 3. Protocol Layer
-- Shatter Protocol (breaking narrative and prompt control layers)
-- Ops Hardening Framework (gate-first resilience and verification)
-- Oversight & Verification Kit Framework (building auditable oversight packages)
+### 3. Verification & Integrity Layer
+- Gate-first process verification
+- Evidence discipline
+- Anti-pattern detection
+
+### 4. Domain & Execution Layer
+Specialized skills for civic intelligence, jurisdiction work, content systems, and other domains.
 
 ## Design Principles
 
