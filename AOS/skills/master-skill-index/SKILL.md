@@ -12,7 +12,7 @@ This document serves as a central reference for available skills and recommended
 
 - Expanded all categories with complete filesystem inventory of 33+ custom skills + verified triggers/descriptions from individual SKILL.md files.
 - Updated total active patterns count and last updated date.
-- Performed full internal audit: Confirmed consistent SKILL.md structure (name, description, version, triggers) across all skills; noted minor gap (values-alignment-check referenced but not present in filesystem — recommend removal or creation for completeness).
+- Performed full internal audit: Confirmed consistent SKILL.md structure across all skills. Minor gap (`values-alignment-check`) identified and closed by creating the skill on 2026-06-07.
 - Neutral language preserved for maximum reusability and public GitHub-friendliness.
 - Changelog polish applied for clarity and audit trail.
 - System-wide v2.3 compliance remediation completed (version standardization + on-brand language normalization across all tiers). Full release notes available in artifacts.
@@ -33,7 +33,7 @@ These patterns are useful at the start of complex work:
 - `anti-pattern-scanner` — Detects common failure modes (Announce-Instead-Of-Paste, Self-Report, Scope Creep, etc.).
 - `paste-bridge-validator` — Enforces real delivery vs. self-reporting on handoffs.
 - `mission-spine-guard` — Alignment enforcement (Mission Spine: Christ Is King → America First → Truth-Seeking).
-- `values-alignment-check` — Optional lightweight final consistency check (note: referenced in prior versions but not found in current filesystem — audit flag).
+- `values-alignment-check` — Lightweight final consistency check for alignment with core values, Mission Spine, and fairness principles (created 2026-06-07).
 
 ### 2. Reasoning & Analysis Layer
 - `reasoning-architect` — Deep cross-domain reasoning, synthesis, decision support.
@@ -56,5 +56,6 @@ These patterns are useful at the start of complex work:
 - `paste-bridge-validator`
 - `public-records-forensics`
 - `construction-oversight`
+- `values-alignment-check` — Lightweight final consistency check for alignment with core values, Mission Spine, and fairness principles.
 
-... (full index continues with other tiers)
+... (full index continues with other tiers as before)
